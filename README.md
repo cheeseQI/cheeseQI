@@ -1,17 +1,18 @@
 Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently studying in Duke University.
+- 👯 I’m looking for full-time job opportunities in software development.
+- 📫 How to reach me: 
+  - <a href="https://www.linkedin.com/in/siqi-qi-60012a1b0/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin" /></a>
+  - sq44@duke.edu
+- ⚡ Hobbies: football(or soccer if u r America), badminton, video game
 
 ### 🛠️ Languages and Tools:
-
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
-![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Nodejs](https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js)
+![Vue](https://img.shields.io/badge/-Vue-blue?style=flat-square&logo=Vue)
+![Spring](https://img.shields.io/badge/-Spring-blue?style=flat-square&logo=Spring)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
