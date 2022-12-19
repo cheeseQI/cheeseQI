@@ -5,7 +5,7 @@ Hi there 👋
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/siqi-qi-60012a1b0/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin" /></a>
   - sq44@duke.edu
-- ⚡ Hobbies: football(or soccer if u r America), badminton, video game
+- ⚡ Hobbies: football(or soccer if u r American), badminton, video game
 
 ### 🛠️ Languages and Tools:
 ![C](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
