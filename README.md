@@ -8,3 +8,10 @@ Hi there 👋
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+### 🛠️ Languages and Tools:
+
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![Next.js](https://img.shields.io/badge/-Next-black?style=flat-square&logo=Next.js)
+![C++](https://img.shields.io/badge/-C-black?style=flat-square&logo=c)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
