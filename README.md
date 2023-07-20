@@ -1,6 +1,6 @@
 Hi there 👋
 
-- 🔭 I’m currently studying in Duke University.
+- 🔭 I just graduated from Duke University.
 - 👯 I’m looking for full-time job opportunities in software development.
 - 📫 How to reach me: 
   - <a href="https://www.linkedin.com/in/siqi-qi-60012a1b0/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin" /></a>
