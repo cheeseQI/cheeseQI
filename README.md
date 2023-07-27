@@ -13,6 +13,7 @@ Hi there 👋
 ![Java](https://img.shields.io/badge/-Java-black?style=flat-square&logo=Java)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-blue?style=flat-square&logo=Node.js)
-![Vue](https://img.shields.io/badge/-Vue-blue?style=flat-square&logo=Vue)
+![Vue](https://img.shields.io/badge/-Vue-green?style=flat-square&logo=Vue)
+![React](https://img.shields.io/badge/-React-blue?style=flat-square&logo=React)
 ![Spring](https://img.shields.io/badge/-Spring-blue?style=flat-square&logo=Spring)
 ![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=Docker)
