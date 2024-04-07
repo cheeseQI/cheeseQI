@@ -3,7 +3,7 @@ Hi there 👋
 - 🔭 I just graduated from Duke University.
 - 👯 I’m looking for full-time job opportunities in software development.
 - 📫 How to reach me: 
-  - <a href="https://www.linkedin.com/in/siqi-qi-60012a1b0/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin" /></a>
+  - <a href="https://www.linkedin.com/in/siqiqi/"><img src="https://img.shields.io/badge/-linkedin-blue?style=flat-square&logo=linkedin" /></a>
   - cheese747@outlook.com
 - ⚡ Hobbies: football(soccer), badminton, billiards, video game
 
